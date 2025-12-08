@@ -1,7 +1,8 @@
 # rag-system
-RAG-based AI system 
+RAG-based AI system - https://github.com/assemsaduakas/rag-system
+video description - https://drive.google.com/drive/folders/12CqpV5DHXzKsXDWdmrcTIf7vhpZG5HAC?usp=sharing
 
-# Local City Guide + Event Assistant — Project Description
+# Local City Guide + Event Assistant
 
 **Project title:** CityBuddy — Local City Guide & Event Assistant
 
