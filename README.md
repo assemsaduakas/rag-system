@@ -55,4 +55,3 @@ The dataset is intentionally small (~20 items) but representative.
 - No real-time event updates
 - LLM responses depend on retrieved context quality
 
-## Demo Video
