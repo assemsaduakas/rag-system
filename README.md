@@ -11,7 +11,7 @@ relevant documents from a vector database and uses an LLM to generate grounded a
 - Vector embeddings
 - Similarity search (FAISS)
 - Prompt grounding with retrieved context
-- Lightweight UI / notebook-based interaction
+- Lightweight UI
 
 ## Dataset Concept
 The dataset consists of short, original, non-copyrighted textual descriptions of:
